@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c784dbf60dd9230429d2d67e3461b11e
+timeCreated: 1524616579
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - healthBar: {fileID: 114974098548124566, guid: 65a63396c3fa4194d836f819e8e13502,
+      type: 2}
+  - canvas: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
